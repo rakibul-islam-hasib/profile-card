@@ -47,3 +47,13 @@ body {
     text-align: center;
     padding: 3px;
 }
+.fa-brands {
+    color: rgb(177, 43, 148);
+    font-size: 2em;
+    margin-right: 3px;
+    cursor: pointer;
+}
+.fa-brands:hover {
+    color: rgba(79, 208, 218, 0.842);
+    transition: 0.9s;
+}
